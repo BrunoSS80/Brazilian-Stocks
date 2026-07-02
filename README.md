@@ -39,9 +39,9 @@ O projeto contempla:
 
 ---
 
-## 🧩 Modelo Dimensional (Star Schema)
+## 🧩 Diagrama Estrutural
 
-
+![Diagrama.png](https://github.com/BrunoSS80/Brazilian-Stocks/blob/main/images/Diagrama.png)
 
 ---
 
@@ -109,7 +109,7 @@ O projeto disponibiliza dois dashboards desenvolvidos no Databricks.
 - Indicadores consolidados
 - Comparativo entre ativos
 
-> 📷 *Imagem do Dashboard Histórico*
+![Dash-Anual](https://github.com/BrunoSS80/Brazilian-Stocks/blob/main/images/Dash_Anual.png)
 
 ---
 
@@ -121,7 +121,7 @@ O projeto disponibiliza dois dashboards desenvolvidos no Databricks.
 - Última atualização
 - Filtro por ticker
 
-> 📷 *Imagem do Dashboard Intraday*
+![Dash-Intra](https://github.com/BrunoSS80/Brazilian-Stocks/blob/main/images/Dash_intra.png)
 
 ---
 
